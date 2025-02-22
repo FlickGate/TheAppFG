@@ -48,7 +48,7 @@
     {
       "DadFolder":"SeriesFolder",
       "SonFolder":"SectionSeries",
-      "cate": "Horror",
+      "cate": "Action",
       "TrendNowSeries": "True",
       "series": [
         {
@@ -93,7 +93,7 @@
     {
       "DadFolder":"SeriesFolder",
       "SonFolder":"SectionSeries",
-      "cate": "Fantasy",
+      "cate": "Action",
       "TrendNowSeries": "True",
       "series": [
         {
