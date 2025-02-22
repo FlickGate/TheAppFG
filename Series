@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "cate": "Action",
+      "cate": "Horror",
       "TrendNowSeries": "True",
       "DadFolder":"SeriesFolder",
       "SonFolder":"SectionSeries",
@@ -48,7 +48,7 @@
     {
       "DadFolder":"SeriesFolder",
       "SonFolder":"SectionSeries",
-      "cate": "Action",
+      "cate": "Horror",
       "TrendNowSeries": "True",
       "series": [
         {
@@ -93,7 +93,7 @@
     {
       "DadFolder":"SeriesFolder",
       "SonFolder":"SectionSeries",
-      "cate": "Action",
+      "cate": "Horror",
       "TrendNowSeries": "True",
       "series": [
         {
