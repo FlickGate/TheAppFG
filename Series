@@ -1,139 +1,1060 @@
 {
-  "categories": [
-    {
-      "cate": "Comedy",
-      "TrendNowSeries": "True",
-      "DadFolder":"SeriesFolder",
-      "SonFolder":"SectionSeries",
-      "series": [
+    "categories": [
         {
-          "image_url": "https://aflamix.com/images/2234.jpg",
-          "title": "Life Is Life",
-          "release_year": 2021,
-          "seasonNumbers": 2,
-          "rating": "8",
-          "seasons": [
-            {
-              "id": "Life-is-life-1",
-              "title": "Life is life S1",
-              "release_year": 2021,
-              "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-              "image_url": "https://aflamix.com/images/2234.jpg",
-              "rating": "8",
-              "ThisSeasonNumIs": "S1",
-              "EpisodesNumsInThisSeasonIs": 9,
-              "episodes": [
+            "cate": "Fantasy",
+            "TrendNowSeries": "False",
+            "DadFolder": "SeriesFolder",
+            "SonFolder": "SectionSeries",
+            "series": [
                 {
-                  "episodeId": "Life-is-life-S1-E1",
-                  "title": "Life Is Life S1 E1",
-                  "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-                  "duration": "59.42 m",
-                  "image_url": "https://aflamix.com/images/2234.jpg",
-                  "video_url": "https://swishsrv.com/e/cqwqhp061zns"
+                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                    "title": "game of thrones",
+                    "release_year": "2011",
+                    "seasonNumbers": 8,
+                    "rating": "9.2",
+                    "seasons": [
+                        {
+                            "id": "game-of-thrones-1",
+                            "title": "game of thrones S1",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S1",
+                            "EpisodesNumsInThisSeasonIs": 10,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S1-E1",
+                                    "title": "game of thrones S1 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-ae5a4jnygct4.html",
+                                    "season": 1,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E2",
+                                    "title": "game of thrones S1 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/8j8l9ih0b25f",
+                                    "season": 1,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E3",
+                                    "title": "game of thrones S1 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-j2hs1hlan0mf.html",
+                                    "season": 1,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E4",
+                                    "title": "game of thrones S1 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/uadepkjeqjnf",
+                                    "season": 1,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E5",
+                                    "title": "game of thrones S1 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/vx6vz4a7flxi",
+                                    "season": 1,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E6",
+                                    "title": "game of thrones S1 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-m815890pkd07.html",
+                                    "season": 1,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E7",
+                                    "title": "game of thrones S1 E7",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-a8x6fbi5gau3.html",
+                                    "season": 1,
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E8",
+                                    "title": "game of thrones S1 E8",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-6kgj396ymxje.html",
+                                    "season": 1,
+                                    "episode_number": 8
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E9",
+                                    "title": "game of thrones S1 E9",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-98v4rfgfidgq.html",
+                                    "season": 1,
+                                    "episode_number": 9
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S1-E10",
+                                    "title": "game of thrones S1 E10",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-9oo19ntpebpm.html",
+                                    "season": 1,
+                                    "episode_number": 10
+                                }
+                            ]
+                        },
+                        {
+                            "id": "game-of-thrones-2",
+                            "title": "game of thrones S2",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S2",
+                            "EpisodesNumsInThisSeasonIs": 10,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S2-E1",
+                                    "title": "game of thrones S2 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/enm6xqtgs9e3",
+                                    "season": 2,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E2",
+                                    "title": "game of thrones S2 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/8k3ef51tq4kz",
+                                    "season": 2,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E3",
+                                    "title": "game of thrones S2 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/nvm6xmyjjznu",
+                                    "season": 2,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E4",
+                                    "title": "game of thrones S2 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-sp0s2fuuwjmx.html",
+                                    "season": 2,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E5",
+                                    "title": "game of thrones S2 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-ui5y7f86le76.html",
+                                    "season": 2,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E6",
+                                    "title": "game of thrones S2 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/eox5s5t79klh",
+                                    "season": 2,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E7",
+                                    "title": "game of thrones S2 E7",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-uuyvcv48i4td.html",
+                                    "season": 2,
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E8",
+                                    "title": "game of thrones S2 E8",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/25o37boo7y22",
+                                    "season": 2,
+                                    "episode_number": 8
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E9",
+                                    "title": "game of thrones S2 E9",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-bwthx5klowme.html",
+                                    "season": 2,
+                                    "episode_number": 9
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S2-E10",
+                                    "title": "game of thrones S2 E10",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-kqk3tbp4dzji.html",
+                                    "season": 2,
+                                    "episode_number": 10
+                                }
+                            ]
+                        },
+                        {
+                            "id": "game-of-thrones-3",
+                            "title": "game of thrones S3",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S3",
+                            "EpisodesNumsInThisSeasonIs": 10,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S3-E1",
+                                    "title": "game of thrones S3 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-bc2veio24hyt.html",
+                                    "season": 3,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E2",
+                                    "title": "game of thrones S3 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-3du7bergyef3.html",
+                                    "season": 3,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E3",
+                                    "title": "game of thrones S3 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-u1v6zwj00bjs.html",
+                                    "season": 3,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E4",
+                                    "title": "game of thrones S3 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-h54xh60i2w07.html",
+                                    "season": 3,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E5",
+                                    "title": "game of thrones S3 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/92vcz2prrq8p",
+                                    "season": 3,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E6",
+                                    "title": "game of thrones S3 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-y9gd1leahrqw.html",
+                                    "season": 3,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E7",
+                                    "title": "game of thrones S3 E7",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-62ljgjr22wfb.html",
+                                    "season": 3,
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E8",
+                                    "title": "game of thrones S3 E8",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/mvzt7tw17ugp",
+                                    "season": 3,
+                                    "episode_number": 8
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E9",
+                                    "title": "game of thrones S3 E9",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-7nt9dajm7b62.html",
+                                    "season": 3,
+                                    "episode_number": 9
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S3-E10",
+                                    "title": "game of thrones S3 E10",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/mebzl16fqt4v",
+                                    "season": 3,
+                                    "episode_number": 10
+                                }
+                            ]
+                        },
+                        {
+                            "id": "game-of-thrones-4",
+                            "title": "game of thrones S4",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S4",
+                            "EpisodesNumsInThisSeasonIs": 10,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S4-E1",
+                                    "title": "game of thrones S4 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-07vugu0ncyze.html",
+                                    "season": 4,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E2",
+                                    "title": "game of thrones S4 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-f7xxe5z2b17m.html",
+                                    "season": 4,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E3",
+                                    "title": "game of thrones S4 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-lp8kyb4dlmga.html",
+                                    "season": 4,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E4",
+                                    "title": "game of thrones S4 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-f1kk4kpm81v4.html",
+                                    "season": 4,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E5",
+                                    "title": "game of thrones S4 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/yxe9npurwhmu",
+                                    "season": 4,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E6",
+                                    "title": "game of thrones S4 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-6x9et044w8ge.html",
+                                    "season": 4,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E7",
+                                    "title": "game of thrones S4 E7",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-9jj9qwh4lcc7.html",
+                                    "season": 4,
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E8",
+                                    "title": "game of thrones S4 E8",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/yqyyle8o2act",
+                                    "season": 4,
+                                    "episode_number": 8
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E9",
+                                    "title": "game of thrones S4 E9",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-umj55c60swhx.html",
+                                    "season": 4,
+                                    "episode_number": 9
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S4-E10",
+                                    "title": "game of thrones S4 E10",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/w7z8ko0x3fzz",
+                                    "season": 4,
+                                    "episode_number": 10
+                                }
+                            ]
+                        },
+                        {
+                            "id": "game-of-thrones-5",
+                            "title": "game of thrones S5",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S5",
+                            "EpisodesNumsInThisSeasonIs": 10,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S5-E1",
+                                    "title": "game of thrones S5 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-1ec2r59ykpk7.html",
+                                    "season": 5,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E2",
+                                    "title": "game of thrones S5 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/i7htffua9ile",
+                                    "season": 5,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E3",
+                                    "title": "game of thrones S5 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-e1um4wxtteuo.html",
+                                    "season": 5,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E4",
+                                    "title": "game of thrones S5 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-eagyv31gigka.html",
+                                    "season": 5,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E5",
+                                    "title": "game of thrones S5 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-6nztuwxmfk27.html",
+                                    "season": 5,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E6",
+                                    "title": "game of thrones S5 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-ul48fq8xuvlg.html",
+                                    "season": 5,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E7",
+                                    "title": "game of thrones S5 E7",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-8auoe18srjqt.html",
+                                    "season": 5,
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E8",
+                                    "title": "game of thrones S5 E8",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/0rcsdtlcy3lm",
+                                    "season": 5,
+                                    "episode_number": 8
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E9",
+                                    "title": "game of thrones S5 E9",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-ivf2e9dd9pce.html",
+                                    "season": 5,
+                                    "episode_number": 9
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S5-E10",
+                                    "title": "game of thrones S5 E10",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-uwhapf5gu3tq.html",
+                                    "season": 5,
+                                    "episode_number": 10
+                                }
+                            ]
+                        },
+                        {
+                            "id": "game-of-thrones-6",
+                            "title": "game of thrones S6",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S6",
+                            "EpisodesNumsInThisSeasonIs": 10,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S6-E1",
+                                    "title": "game of thrones S6 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/60787f5ocd8g",
+                                    "season": 6,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E2",
+                                    "title": "game of thrones S6 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/28u6oi86reh1",
+                                    "season": 6,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E3",
+                                    "title": "game of thrones S6 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/knhu6q0ul7ob",
+                                    "season": 6,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E4",
+                                    "title": "game of thrones S6 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/06lc50amfuna",
+                                    "season": 6,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E5",
+                                    "title": "game of thrones S6 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/y6kc5yrnxkc0",
+                                    "season": 6,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E6",
+                                    "title": "game of thrones S6 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-pa72v2mzsyti.html",
+                                    "season": 6,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E7",
+                                    "title": "game of thrones S6 E7",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/17kcklo47s6h",
+                                    "season": 6,
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E8",
+                                    "title": "game of thrones S6 E8",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/prqz72gme64e",
+                                    "season": 6,
+                                    "episode_number": 8
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E9",
+                                    "title": "game of thrones S6 E9",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/qg3gk00eb5f1",
+                                    "season": 6,
+                                    "episode_number": 9
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S6-E10",
+                                    "title": "game of thrones S6 E10",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/0ctynxypcmbt",
+                                    "season": 6,
+                                    "episode_number": 10
+                                }
+                            ]
+                        },
+                        {
+                            "id": "game-of-thrones-7",
+                            "title": "game of thrones S7",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S7",
+                            "EpisodesNumsInThisSeasonIs": 7,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S7-E1",
+                                    "title": "game of thrones S7 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/um09ukuws868",
+                                    "season": 7,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S7-E2",
+                                    "title": "game of thrones S7 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-k8ep1cwc8xjm.html",
+                                    "season": 7,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S7-E3",
+                                    "title": "game of thrones S7 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-yh6f0qz5q51b.html",
+                                    "season": 7,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S7-E4",
+                                    "title": "game of thrones S7 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/19gl81439z6r",
+                                    "season": 7,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S7-E5",
+                                    "title": "game of thrones S7 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/mxtuuic18fvo",
+                                    "season": 7,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S7-E6",
+                                    "title": "game of thrones S7 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-762t2ha9pjgt.html",
+                                    "season": 7,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S7-E7",
+                                    "title": "game of thrones S7 E7",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/q77tuo70dasl",
+                                    "season": 7,
+                                    "episode_number": 7
+                                }
+                            ]
+                        },
+                        {
+                            "id": "game-of-thrones-8",
+                            "title": "game of thrones S8",
+                            "release_year": "2011",
+                            "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                            "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                            "rating": "9.2",
+                            "ThisSeasonNumIs": "S8",
+                            "EpisodesNumsInThisSeasonIs": 6,
+                            "episodes": [
+                                {
+                                    "episodeId": "game-of-thrones-S8-E1",
+                                    "title": "game of thrones S8 E1",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-jsaerdtsqsh8.html",
+                                    "season": 8,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S8-E2",
+                                    "title": "game of thrones S8 E2",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://hlswish.com/e/yo7vntugcgm1",
+                                    "season": 8,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S8-E3",
+                                    "title": "game of thrones S8 E3",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-l9nra0z9b5p6.html",
+                                    "season": 8,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S8-E4",
+                                    "title": "game of thrones S8 E4",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-soyexiecuclh.html",
+                                    "season": 8,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S8-E5",
+                                    "title": "game of thrones S8 E5",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-jeebasv7eexp.html",
+                                    "season": 8,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "game-of-thrones-S8-E6",
+                                    "title": "game of thrones S8 E6",
+                                    "description": "وتقعُ أحداث الموسم الأول في قارّتين خياليتين هما ويستروس وإيسوس في نهاية صيف طويل جداً أمتد لعقد من الزمن، حيث يذهب كبير عائلة ستارك ليكون حامي الملك روبرت براثيون ويبحث ويحقق في مقتل ساعد الملك السابق.",
+                                    "duration": "1:00",
+                                    "image_url": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8553063_b_v13_ax.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-3dha4ga8v7ec.html",
+                                    "season": 8,
+                                    "episode_number": 6
+                                }
+                            ]
+                        }
+                    ]
                 },
                 {
-                  "episodeId": "Life-is-life-S1-E2",
-                  "title": "Life Is Life S1 E1",
-                  "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-                  "duration": "1 02 hr",
-                  "image_url": "https://aflamix.com/images/2234.jpg",
-                  "video_url": "https://swishsrv.com/e/b6lay8uqw9ur"
+                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                    "title": "house of dragons",
+                    "release_year": "2022",
+                    "seasonNumbers": 2,
+                    "rating": "8.0",
+                    "seasons": [
+                        {
+                            "id": "house-of-dragons-?",
+                            "title": "house of dragons S?",
+                            "release_year": "2022",
+                            "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                            "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                            "rating": "8.0",
+                            "ThisSeasonNumIs": "S?",
+                            "EpisodesNumsInThisSeasonIs": 10,
+                            "episodes": [
+                                {
+                                    "episodeId": "house-of-dragons-S?-E1",
+                                    "title": "house of dragons S? E1",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-lei3d5fkfvw9.html",
+                                    "season": "?",
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E2",
+                                    "title": "house of dragons S? E2",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-olehmdox0jdf.html",
+                                    "season": "?",
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E3",
+                                    "title": "house of dragons S? E3",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-vbodauayni4b.html",
+                                    "season": "?",
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E4",
+                                    "title": "house of dragons S? E4",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-emfgyxcxls4p.html",
+                                    "season": "?",
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E5",
+                                    "title": "house of dragons S? E5",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-fvkw7wvtkq8s.html",
+                                    "season": "?",
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E6",
+                                    "title": "house of dragons S? E6",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-ve6gsa2lxsb2.html",
+                                    "season": "?",
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E7",
+                                    "title": "house of dragons S? E7",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-zuors0gcwmkk.html",
+                                    "season": "?",
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E8",
+                                    "title": "house of dragons S? E8",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-i1omkmhe9a74.html",
+                                    "season": "?",
+                                    "episode_number": 8
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E9",
+                                    "title": "house of dragons S? E9",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-qhv9d6p19chj.html",
+                                    "season": "?",
+                                    "episode_number": 9
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S?-E10",
+                                    "title": "house of dragons S? E10",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com:2096/embed-kgkyh8werjkq.html",
+                                    "season": "?",
+                                    "episode_number": 10
+                                }
+                            ]
+                        },
+                        {
+                            "id": "house-of-dragons-2",
+                            "title": "house of dragons S2",
+                            "release_year": "2022",
+                            "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                            "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                            "rating": "8.0",
+                            "ThisSeasonNumIs": "S2",
+                            "EpisodesNumsInThisSeasonIs": 8,
+                            "episodes": [
+                                {
+                                    "episodeId": "house-of-dragons-S2-E1",
+                                    "title": "house of dragons S2 E1",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-1xj315p27vhm.html",
+                                    "season": 2,
+                                    "episode_number": 1
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S2-E2",
+                                    "title": "house of dragons S2 E2",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-wzp7awpcooc4.html",
+                                    "season": 2,
+                                    "episode_number": 2
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S2-E3",
+                                    "title": "house of dragons S2 E3",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-ic4u3zucl4qg.html",
+                                    "season": 2,
+                                    "episode_number": 3
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S2-E4",
+                                    "title": "house of dragons S2 E4",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://vk.com/video_ext.php?oid=848022598&id=456239539",
+                                    "season": 2,
+                                    "episode_number": 4
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S2-E5",
+                                    "title": "house of dragons S2 E5",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-hk7d6vur1mft.html",
+                                    "season": 2,
+                                    "episode_number": 5
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S2-E6",
+                                    "title": "house of dragons S2 E6",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-xhz6r3pnt7tx.html",
+                                    "season": 2,
+                                    "episode_number": 6
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S2-E7",
+                                    "title": "house of dragons S2 E7",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-yxp88nnse8ft.html",
+                                    "season": 2,
+                                    "episode_number": 7
+                                },
+                                {
+                                    "episodeId": "house-of-dragons-S2-E8",
+                                    "title": "house of dragons S2 E8",
+                                    "description": "يضم العرض مجموعة من الممثلين، ويصور الأحداث التي أدت إلى تراجع آل تارجارين، وهي حرب خلافة مدمرة تُعرف باسم «رقصة التنانين». ",
+                                    "duration": "1:00",
+                                    "image_url": "https://m.media-amazon.com/images/M/MV5BM2QzMGVkNjUtN2Y4Yi00ODMwLTg3YzktYzUxYjJlNjFjNDY1XkEyXkFqcGc@._V1_.jpg",
+                                    "video_url": "https://www.vidspeeds.com/embed-kg5gchj2mx3g.html",
+                                    "season": 2,
+                                    "episode_number": 8
+                                }
+                            ]
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         }
-      ]
-    },
-    {
-      "DadFolder":"SeriesFolder",
-      "SonFolder":"SectionSeries",
-      "cate": "Comedy",
-      "TrendNowSeries": "True",
-      "series": [
-        {
-          "image_url": "https://aflamix.com/images/2234.jpg",
-          "title": "Squid Game",
-          "release_year": 2021,
-          "seasonNumbers": 2,
-          "rating": "8",
-          "seasons": [
-            {
-              "id": "squid-gameseason-1",
-              "title": "Squid Game S1",
-              "release_year": 2021,
-              "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-              "image_url": "https://aflamix.com/images/2234.jpg",
-              "rating": "8",
-              "ThisSeasonNumIs": "S1",
-              "EpisodesNumsInThisSeasonIs": 9,
-              "episodes": [
-                {
-                  "episodeId": "squidgame-S1-E1",
-                  "title": "Squid Game S1 E1",
-                  "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-                  "duration": "59.42 m",
-                  "image_url": "https://aflamix.com/images/2234.jpg",
-                  "video_url": "https://swishsrv.com/e/cqwqhp061zns"
-                },
-                {
-                  "episodeId": "squidgame-S1-E2",
-                  "title": "Squid Game S1 E2",
-                  "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-                  "duration": "1 02 hr",
-                  "image_url": "https://aflamix.com/images/2234.jpg",
-                  "video_url": "https://swishsrv.com/e/b6lay8uqw9ur"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "DadFolder":"SeriesFolder",
-      "SonFolder":"SectionSeries",
-      "cate": "Comedy",
-      "TrendNowSeries": "True",
-      "series": [
-        {
-          "image_url": "https://aflamix.com/images/2234.jpg",
-          "title": "Hello Code",
-          "release_year": 2021,
-          "seasonNumbers": 2,
-          "rating": "8",
-          "seasons": [
-            {
-              "id": "hello-code-1",
-              "title": "Hello Code S1",
-              "release_year": 2021,
-              "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-              "image_url": "https://aflamix.com/images/2234.jpg",
-              "rating": "8",
-              "ThisSeasonNumIs": "S1",
-              "EpisodesNumsInThisSeasonIs": 9,
-              "episodes": [
-                {
-                  "episodeId": "hellocode-S1-E1",
-                  "title": "Squid Game S1 E1",
-                  "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-                  "duration": "59.42 m",
-                  "image_url": "https://aflamix.com/images/2234.jpg",
-                  "video_url": "https://swishsrv.com/e/cqwqhp061zns"
-                },
-                {
-                  "episodeId": "hellocode-1-S1-E2",
-                  "title": "Hello Code S1 E2",
-                  "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للمشاركة في ألعاب الأطفال. وفي الداخل، تنتظرهم جائزة مغرية ذات مخاطر عالية مميتة: لعبة البقاء على قيد الحياة التي تبلغ قيمتها 45.6 مليار وون.",
-                  "duration": "1 02 hr",
-                  "image_url": "https://aflamix.com/images/2234.jpg",
-                  "video_url": "https://swishsrv.com/e/b6lay8uqw9ur"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }
