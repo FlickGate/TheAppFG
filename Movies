@@ -6,6 +6,7 @@
         "video_url": "https://swishsrv.com/e/w8kn0ff18vy6",
         "download_url": "",
         "DadFolder":"MoviesFolder",
+        "TrendNow":"True",
         "cate": "Drama"
     },
     {
@@ -14,6 +15,7 @@
         "image_url": "https://aflamix.com/images/6052.jpg",
         "video_url": "https://swishsrv.com/e/cqahklefc9k9",
         "download_url": "",
+        "TrendNow":"True",
         "cate": "Action"
     },
     {
@@ -22,6 +24,7 @@
         "image_url": "https://aflamix.com/images/6051.jpg",
         "video_url": "https://swishsrv.com/e/lfh49bnpih6a",
         "download_url": "",
+        "TrendNow":"True",
         "cate": "Comedy"
     },
     {
