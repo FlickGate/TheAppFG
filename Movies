@@ -7,6 +7,7 @@
         "download_url": "",
         "DadFolder":"MoviesFolder",
         "TrendNow":"True",
+        "rating":"8.5",
         "cate": "Drama"
     },
     {
@@ -16,6 +17,7 @@
         "video_url": "https://swishsrv.com/e/cqahklefc9k9",
         "download_url": "",
         "TrendNow":"True",
+        "rating":"8.7",
         "cate": "Action"
     },
     {
@@ -25,6 +27,7 @@
         "video_url": "https://swishsrv.com/e/lfh49bnpih6a",
         "download_url": "",
         "TrendNow":"True",
+        "rating":"9",
         "cate": "Comedy"
     },
     {
@@ -34,6 +37,7 @@
         "video_url": "https://swishsrv.com/e/ofa6d9ut6nhp",
         "download_url": "",
         "TrendNow":"True",
+        "rating":"9.5",
         "cate": "Action"
     },
     {
@@ -43,6 +47,7 @@
         "video_url": "https://swishsrv.com/e/j0e8akweueiv",
         "download_url": "",
         "TrendNow":"True",
+        "rating":"10",
         "cate": "Drama"
     },
     {
@@ -52,6 +57,7 @@
         "video_url": "https://swishsrv.com/e/05ltgyeg1rsv",
         "download_url": "",
         "TrendNow":"True",
+        "rating":"9.7",
         "cate": "Action"
     },
     {
@@ -61,6 +67,7 @@
         "video_url": "https://swishsrv.com/e/e064gl9imd14",
         "download_url": "",
         "TrendNow":"True",
+        "rating":"9.9",
         "cate": "Action"
     },
     {
@@ -70,6 +77,7 @@
         "video_url": "https://swishsrv.com/e/vswwcyxads4y",
         "download_url": "",
         "TrendNow":"True",
+        "rating":"8.6",
         "cate": "Comedy"
     },
     {
