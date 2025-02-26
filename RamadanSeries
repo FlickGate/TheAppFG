@@ -2,7 +2,7 @@
     "categories": [
         {
             "cate": "Fantasy",
-            "TrendNowSeries": "False",
+            "TrendNowSeries": "True",
             "DadFolder": "SeriesFolder",
             "SonFolder": "SectionSeries",
             "series": [
